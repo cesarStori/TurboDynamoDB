@@ -7,7 +7,7 @@
 test('SQS Queue Created', () => {
 //   const app = new cdk.App();
 //     // WHEN
-//   const stack = new TurboDynamoDb.TurboDynamoDbStack(app, 'MyTestStack');
+//   const stack = new TurboDynamoDb.CdkDynamoStack(app, 'MyTestStack');
 //     // THEN
 //   const template = Template.fromStack(stack);
 
